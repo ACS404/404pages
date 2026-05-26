@@ -162,7 +162,7 @@ BAD:  2024-8-2-cancer-risk-model.md
 BAD:  2069-12-31-cancer-risk-model.md   ← future dates won't publish by default
 ```
 
----
+--- 
 
 ## Front Matter (Metadata)
 
